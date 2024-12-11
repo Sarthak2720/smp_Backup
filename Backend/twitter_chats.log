@@ -1,0 +1,403 @@
+2024-12-10 23:40:26,080 - INFO - ====== WebDriver manager ======
+2024-12-10 23:40:27,324 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-10 23:40:27,633 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-10 23:40:27,935 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-10 23:40:42,673 - INFO - Entered username.
+2024-12-10 23:40:46,402 - INFO - Entered password.
+2024-12-10 23:41:30,764 - ERROR - Failed to load Direct Messages inbox.
+2024-12-10 23:41:30,772 - INFO - Chat list loaded successfully.
+2024-12-10 23:41:30,781 - INFO - Found 2 chats.
+2024-12-10 23:41:31,061 - INFO - Clicked on chat 1.
+2024-12-10 23:41:34,673 - INFO - Chat container for chat 1 located successfully.
+2024-12-10 23:41:39,431 - INFO - Screenshot taken: chat_1_screenshot_1.png | Extracted Text: hello
+this
+is
+a
+sample
+message
+how
+are
+you
+rip
+Sat...
+2024-12-10 23:41:43,443 - INFO - Screenshot taken: chat_1_screenshot_2.png | Extracted Text: Nice
+Person
+Hope
+Everything
+Is
+Fine
+Take
+Time
+Sat ...
+2024-12-10 23:41:46,213 - INFO - Screenshot taken: chat_1_screenshot_3.png | Extracted Text: Twitter
+Chats
+How
+Are
+You
+What
+Is
+Going
+On
+You
+Are...
+2024-12-10 23:41:50,423 - INFO - Screenshot taken: chat_1_screenshot_4.png | Extracted Text: same paragraph mujhe bhej
+Nov 13, 2024, 3:56 PM
+Wh...
+2024-12-10 23:41:52,563 - INFO - Reached the top of chat 1.
+2024-12-10 23:41:52,597 - INFO - Returned to chat list after processing chat 1.
+2024-12-10 23:41:56,034 - INFO - Clicked on chat 2.
+2024-12-10 23:41:59,260 - INFO - Chat container for chat 2 located successfully.
+2024-12-10 23:42:01,030 - INFO - Chat 2 does not have a scrollbar; taking a single screenshot.
+2024-12-10 23:42:01,163 - INFO - Screenshot taken: chat_2_screenshot_5.png | Extracted Text: Akshat jain
+@aakshatjain_
+Joined June 2021
+·
+1 Fol...
+2024-12-10 23:42:01,197 - INFO - Returned to chat list after processing chat 2.
+2024-12-10 23:42:03,627 - INFO - Total screenshots taken: 5
+2024-12-10 23:42:03,689 - INFO - Added chat_2_screenshot_5.png to PDF with extracted text.
+2024-12-10 23:42:03,742 - INFO - Added chat_1_screenshot_4.png to PDF with extracted text.
+2024-12-10 23:42:03,789 - INFO - Added chat_1_screenshot_3.png to PDF with extracted text.
+2024-12-10 23:42:03,837 - INFO - Added chat_1_screenshot_2.png to PDF with extracted text.
+2024-12-10 23:42:03,888 - INFO - Added chat_1_screenshot_1.png to PDF with extracted text.
+2024-12-10 23:42:03,899 - INFO - PDF generated successfully.
+2024-12-10 23:42:03,900 - INFO - Removed screenshot file: chat_1_screenshot_1.png
+2024-12-10 23:42:03,900 - INFO - Removed screenshot file: chat_1_screenshot_2.png
+2024-12-10 23:42:03,901 - INFO - Removed screenshot file: chat_1_screenshot_3.png
+2024-12-10 23:42:03,901 - INFO - Removed screenshot file: chat_1_screenshot_4.png
+2024-12-10 23:42:03,902 - INFO - Removed screenshot file: chat_2_screenshot_5.png
+2024-12-10 23:42:06,199 - INFO - WebDriver session closed.
+2024-12-10 23:43:22,605 - INFO - ====== WebDriver manager ======
+2024-12-10 23:43:23,957 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-10 23:43:24,258 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-10 23:43:24,529 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-10 23:43:34,814 - INFO - Entered username.
+2024-12-10 23:43:37,902 - INFO - Entered password.
+2024-12-10 23:44:09,598 - ERROR - Failed to load Direct Messages inbox.
+2024-12-10 23:44:09,610 - INFO - Chat list loaded successfully.
+2024-12-10 23:44:09,618 - INFO - Found 2 chats.
+2024-12-10 23:44:10,016 - INFO - Clicked on chat 1.
+2024-12-10 23:44:13,937 - INFO - Chat container for chat 1 located successfully.
+2024-12-10 23:44:20,207 - INFO - Screenshot taken: chat_1_screenshot_1.png | Extracted Text: hello
+this
+is
+a
+sample
+message
+how
+are
+you
+rip
+Sat...
+2024-12-10 23:44:24,206 - INFO - Screenshot taken: chat_1_screenshot_2.png | Extracted Text: Nice
+Person
+Hope
+Everything
+Is
+Fine
+Take
+Time
+Sat ...
+2024-12-10 23:44:28,717 - INFO - Screenshot taken: chat_1_screenshot_3.png | Extracted Text: Twitter
+Chats
+How
+Are
+You
+What
+Is
+Going
+On
+You
+Are...
+2024-12-10 23:44:32,809 - INFO - Screenshot taken: chat_1_screenshot_4.png | Extracted Text: same paragraph mujhe bhej
+Nov 13, 2024, 3:56 PM
+Wh...
+2024-12-10 23:44:36,262 - INFO - Reached the top of chat 1.
+2024-12-10 23:44:36,297 - INFO - Returned to chat list after processing chat 1.
+2024-12-10 23:44:38,891 - INFO - Clicked on chat 2.
+2024-12-10 23:44:42,322 - INFO - Chat container for chat 2 located successfully.
+2024-12-10 23:44:45,331 - INFO - Chat 2 does not have a scrollbar; taking a single screenshot.
+2024-12-10 23:44:45,484 - INFO - Screenshot taken: chat_2_screenshot_5.png | Extracted Text: Akshat jain
+@aakshatjain_
+Joined June 2021
+·
+1 Fol...
+2024-12-10 23:44:45,509 - INFO - Returned to chat list after processing chat 2.
+2024-12-10 23:44:47,526 - INFO - Total screenshots taken: 5
+2024-12-10 23:44:47,699 - INFO - Added chat_2_screenshot_5.png to PDF with extracted text.
+2024-12-10 23:44:47,846 - INFO - Added chat_1_screenshot_4.png to PDF with extracted text.
+2024-12-10 23:44:47,958 - INFO - Added chat_1_screenshot_3.png to PDF with extracted text.
+2024-12-10 23:44:48,057 - INFO - Added chat_1_screenshot_2.png to PDF with extracted text.
+2024-12-10 23:44:48,185 - INFO - Added chat_1_screenshot_1.png to PDF with extracted text.
+2024-12-10 23:44:48,215 - INFO - PDF generated successfully.
+2024-12-10 23:44:48,216 - INFO - Removed screenshot file: chat_1_screenshot_1.png
+2024-12-10 23:44:48,217 - INFO - Removed screenshot file: chat_1_screenshot_2.png
+2024-12-10 23:44:48,219 - INFO - Removed screenshot file: chat_1_screenshot_3.png
+2024-12-10 23:44:48,220 - INFO - Removed screenshot file: chat_1_screenshot_4.png
+2024-12-10 23:44:48,221 - INFO - Removed screenshot file: chat_2_screenshot_5.png
+2024-12-10 23:44:50,866 - INFO - WebDriver session closed.
+2024-12-10 23:48:23,887 - INFO - ====== WebDriver manager ======
+2024-12-10 23:48:25,051 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-10 23:48:25,410 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-10 23:48:25,689 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-10 23:48:37,952 - INFO - Entered username.
+2024-12-10 23:48:41,139 - INFO - Entered password.
+2024-12-10 23:49:33,794 - ERROR - Failed to load Direct Messages inbox.
+2024-12-10 23:49:33,810 - INFO - Chat list loaded successfully.
+2024-12-10 23:49:33,842 - INFO - Found 2 chats.
+2024-12-10 23:49:34,254 - INFO - Clicked on chat 1.
+2024-12-10 23:49:38,173 - INFO - Chat container for chat 1 located successfully.
+2024-12-10 23:49:43,875 - INFO - Screenshot taken: chat_1_screenshot_1.png | Extracted Text: hello
+this
+is
+a
+sample
+message
+how
+are
+you
+rip
+Sat...
+2024-12-10 23:49:47,393 - INFO - Screenshot taken: chat_1_screenshot_2.png | Extracted Text: Nice
+Person
+Hope
+Everything
+Is
+Fine
+Take
+Time
+Sat ...
+2024-12-10 23:49:50,084 - INFO - Screenshot taken: chat_1_screenshot_3.png | Extracted Text: Twitter
+Chats
+How
+Are
+You
+What
+Is
+Going
+On
+You
+Are...
+2024-12-10 23:49:52,591 - INFO - Screenshot taken: chat_1_screenshot_4.png | Extracted Text: same paragraph mujhe bhej
+Nov 13, 2024, 3:56 PM
+Wh...
+2024-12-10 23:49:55,113 - INFO - Reached the top of chat 1.
+2024-12-10 23:49:55,148 - INFO - Returned to chat list after processing chat 1.
+2024-12-10 23:49:57,721 - INFO - Clicked on chat 2.
+2024-12-10 23:50:00,723 - INFO - Chat container for chat 2 located successfully.
+2024-12-10 23:50:02,433 - INFO - Chat 2 does not have a scrollbar; taking a single screenshot.
+2024-12-10 23:50:02,653 - INFO - Screenshot taken: chat_2_screenshot_5.png | Extracted Text: Akshat jain
+@aakshatjain_
+Joined June 2021
+·
+1 Fol...
+2024-12-10 23:50:02,682 - INFO - Returned to chat list after processing chat 2.
+2024-12-10 23:50:06,639 - INFO - Total screenshots taken: 5
+2024-12-10 23:50:06,780 - INFO - Added chat_2_screenshot_5.png to PDF with extracted text.
+2024-12-10 23:50:06,893 - INFO - Added chat_1_screenshot_4.png to PDF with extracted text.
+2024-12-10 23:50:07,037 - INFO - Added chat_1_screenshot_3.png to PDF with extracted text.
+2024-12-10 23:50:07,156 - INFO - Added chat_1_screenshot_2.png to PDF with extracted text.
+2024-12-10 23:50:07,280 - INFO - Added chat_1_screenshot_1.png to PDF with extracted text.
+2024-12-10 23:50:07,306 - INFO - PDF generated successfully.
+2024-12-10 23:50:07,308 - INFO - Removed screenshot file: chat_1_screenshot_1.png
+2024-12-10 23:50:07,308 - INFO - Removed screenshot file: chat_1_screenshot_2.png
+2024-12-10 23:50:07,309 - INFO - Removed screenshot file: chat_1_screenshot_3.png
+2024-12-10 23:50:07,310 - INFO - Removed screenshot file: chat_1_screenshot_4.png
+2024-12-10 23:50:07,312 - INFO - Removed screenshot file: chat_2_screenshot_5.png
+2024-12-10 23:50:09,912 - INFO - WebDriver session closed.
+2024-12-11 05:48:08,116 - INFO - ====== WebDriver manager ======
+2024-12-11 05:48:08,755 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 05:48:09,003 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 05:48:09,237 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 05:48:18,743 - INFO - Entered username.
+2024-12-11 05:48:22,349 - INFO - Entered password.
+2024-12-11 05:48:54,235 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 05:48:54,271 - INFO - Chat list loaded successfully.
+2024-12-11 05:48:54,299 - INFO - Found 2 chats.
+2024-12-11 05:48:54,789 - INFO - Clicked on chat 1.
+2024-12-11 05:48:58,156 - INFO - Chat container for chat 1 located successfully.
+2024-12-11 05:49:02,415 - INFO - Screenshot taken: chat_1.png
+2024-12-11 05:49:02,653 - INFO - Clicked on chat 2.
+2024-12-11 05:49:06,363 - INFO - Chat container for chat 2 located successfully.
+2024-12-11 05:49:09,163 - INFO - Screenshot taken: chat_2.png
+2024-12-11 05:49:09,163 - INFO - Total screenshots taken: 2
+2024-12-11 05:49:09,224 - INFO - Added chat_2.png to PDF with extracted text.
+2024-12-11 05:49:09,249 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 05:49:09,253 - INFO - Removed screenshot file: chat_1.png
+2024-12-11 05:49:09,253 - INFO - Removed screenshot file: chat_2.png
+2024-12-11 05:49:11,778 - INFO - WebDriver session closed.
+2024-12-11 05:56:17,355 - INFO - ====== WebDriver manager ======
+2024-12-11 05:56:18,003 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 05:56:18,242 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 05:56:18,512 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 05:56:27,935 - INFO - Entered username.
+2024-12-11 05:56:30,864 - INFO - Entered password.
+2024-12-11 05:57:02,711 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 05:57:37,863 - INFO - Total screenshots taken: 5
+2024-12-11 05:57:37,886 - INFO - Added chat_2.png to PDF with extracted text.
+2024-12-11 05:57:37,898 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 05:57:37,898 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 05:57:37,899 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 05:57:37,899 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 05:57:37,902 - INFO - Removed screenshot file: chat_1.png
+2024-12-11 05:57:37,902 - ERROR - Error removing chat_1.png: [WinError 2] The system cannot find the file specified: 'chat_1.png'
+2024-12-11 05:57:37,902 - ERROR - Error removing chat_1.png: [WinError 2] The system cannot find the file specified: 'chat_1.png'
+2024-12-11 05:57:37,902 - ERROR - Error removing chat_1.png: [WinError 2] The system cannot find the file specified: 'chat_1.png'
+2024-12-11 05:57:37,902 - INFO - Removed screenshot file: chat_2.png
+2024-12-11 05:57:40,184 - INFO - WebDriver session closed.
+2024-12-11 05:59:02,275 - INFO - ====== WebDriver manager ======
+2024-12-11 05:59:02,899 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 05:59:03,443 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 05:59:03,928 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 05:59:14,702 - INFO - Entered username.
+2024-12-11 05:59:16,945 - INFO - Entered password.
+2024-12-11 05:59:51,147 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 05:59:57,071 - ERROR - An unexpected error occurred: type object '_curses.window' has no attribute 'screenshot'
+2024-12-11 05:59:59,494 - INFO - WebDriver session closed.
+2024-12-11 06:00:39,451 - INFO - ====== WebDriver manager ======
+2024-12-11 06:00:40,112 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:00:40,417 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:00:40,710 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 06:00:52,280 - INFO - Entered username.
+2024-12-11 06:00:56,387 - INFO - Entered password.
+2024-12-11 06:01:29,204 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 06:01:59,472 - INFO - Total screenshots taken: 5
+2024-12-11 06:01:59,609 - INFO - Added chat_2.png to PDF with extracted text.
+2024-12-11 06:01:59,747 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 06:01:59,749 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 06:01:59,749 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 06:01:59,750 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 06:01:59,764 - INFO - Removed screenshot file: chat_1.png
+2024-12-11 06:01:59,765 - ERROR - Error removing chat_1.png: [WinError 2] The system cannot find the file specified: 'chat_1.png'
+2024-12-11 06:01:59,765 - ERROR - Error removing chat_1.png: [WinError 2] The system cannot find the file specified: 'chat_1.png'
+2024-12-11 06:01:59,765 - ERROR - Error removing chat_1.png: [WinError 2] The system cannot find the file specified: 'chat_1.png'
+2024-12-11 06:01:59,766 - INFO - Removed screenshot file: chat_2.png
+2024-12-11 06:02:02,433 - INFO - WebDriver session closed.
+2024-12-11 06:06:36,968 - INFO - ====== WebDriver manager ======
+2024-12-11 06:06:37,618 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:06:37,802 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:06:37,984 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 06:06:46,435 - INFO - Entered username.
+2024-12-11 06:06:49,193 - INFO - Entered password.
+2024-12-11 06:07:19,481 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 06:07:56,181 - INFO - Total screenshots taken: 5
+2024-12-11 06:07:56,317 - INFO - Added chat_2.png to PDF with extracted text.
+2024-12-11 06:07:56,450 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 06:07:56,450 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 06:07:56,452 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 06:07:56,455 - INFO - Added chat_1.png to PDF with extracted text.
+2024-12-11 06:07:56,470 - INFO - Removed screenshot file: chat_1.png
+2024-12-11 06:07:56,470 - ERROR - Error removing chat_1.png: [WinError 2] The system cannot find the file specified: 'chat_1.png'
+2024-12-11 06:07:56,470 - ERROR - Error removing chat_1.png: [WinError 2] The system cannot find the file specified: 'chat_1.png'
+2024-12-11 06:07:56,471 - ERROR - Error removing chat_1.png: [WinError 2] The system cannot find the file specified: 'chat_1.png'
+2024-12-11 06:07:56,471 - INFO - Removed screenshot file: chat_2.png
+2024-12-11 06:07:59,994 - INFO - WebDriver session closed.
+2024-12-11 06:29:59,889 - INFO - ====== WebDriver manager ======
+2024-12-11 06:30:00,565 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:30:00,862 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:30:01,084 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 06:30:11,082 - INFO - Entered username.
+2024-12-11 06:30:13,754 - INFO - Entered password.
+2024-12-11 06:30:44,447 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 06:31:33,293 - ERROR - An unexpected error occurred: cannot access local variable 'chat_container_height' where it is not associated with a value
+2024-12-11 06:31:35,604 - INFO - WebDriver session closed.
+2024-12-11 06:32:23,146 - INFO - ====== WebDriver manager ======
+2024-12-11 06:32:23,806 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:32:24,047 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:32:24,270 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 06:32:33,913 - INFO - Entered username.
+2024-12-11 06:32:37,945 - INFO - Entered password.
+2024-12-11 06:33:09,455 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 06:33:39,123 - ERROR - An unexpected error occurred: cannot access local variable 'chat_container_height' where it is not associated with a value
+2024-12-11 06:33:41,698 - INFO - WebDriver session closed.
+2024-12-11 06:41:19,855 - INFO - ====== WebDriver manager ======
+2024-12-11 06:41:20,537 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:41:20,784 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:41:21,034 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 06:41:31,002 - INFO - Entered username.
+2024-12-11 06:41:34,433 - INFO - Entered password.
+2024-12-11 06:42:05,050 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 06:42:33,464 - ERROR - An unexpected error occurred: cannot access local variable 'chat_container_height' where it is not associated with a value
+2024-12-11 06:42:36,014 - INFO - WebDriver session closed.
+2024-12-11 06:45:13,728 - INFO - ====== WebDriver manager ======
+2024-12-11 06:45:14,374 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:45:14,628 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:45:14,905 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 06:45:26,952 - INFO - Entered username.
+2024-12-11 06:45:31,073 - INFO - Entered password.
+2024-12-11 06:46:02,222 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 06:46:28,237 - INFO - Total screenshots taken: 5
+2024-12-11 06:46:28,390 - INFO - Added chat_2_screenshot.png to PDF with extracted text.
+2024-12-11 06:46:28,548 - INFO - Added chat_1_screenshot_4.png to PDF with extracted text.
+2024-12-11 06:46:28,703 - INFO - Added chat_1_screenshot_3.png to PDF with extracted text.
+2024-12-11 06:46:28,846 - INFO - Added chat_1_screenshot_2.png to PDF with extracted text.
+2024-12-11 06:46:28,955 - INFO - Added chat_1_screenshot_1.png to PDF with extracted text.
+2024-12-11 06:46:28,976 - INFO - Removed screenshot file: chat_1_screenshot_1.png
+2024-12-11 06:46:28,976 - INFO - Removed screenshot file: chat_1_screenshot_2.png
+2024-12-11 06:46:28,976 - INFO - Removed screenshot file: chat_1_screenshot_3.png
+2024-12-11 06:46:28,986 - INFO - Removed screenshot file: chat_1_screenshot_4.png
+2024-12-11 06:46:28,986 - INFO - Removed screenshot file: chat_2_screenshot.png
+2024-12-11 06:46:32,582 - INFO - WebDriver session closed.
+2024-12-11 06:48:27,055 - INFO - ====== WebDriver manager ======
+2024-12-11 06:48:27,735 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:48:27,980 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:48:28,206 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 06:48:40,061 - INFO - Entered username.
+2024-12-11 06:48:44,050 - INFO - Entered password.
+2024-12-11 06:49:15,795 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 06:49:51,980 - INFO - Total screenshots taken: 6
+2024-12-11 06:49:52,032 - INFO - Added chat_2_screenshot.png to PDF with extracted text.
+2024-12-11 06:49:52,080 - INFO - Added chat_1_screenshot_top.png to PDF with extracted text.
+2024-12-11 06:49:52,138 - INFO - Added chat_1_screenshot_4.png to PDF with extracted text.
+2024-12-11 06:49:52,179 - INFO - Added chat_1_screenshot_3.png to PDF with extracted text.
+2024-12-11 06:49:52,231 - INFO - Added chat_1_screenshot_2.png to PDF with extracted text.
+2024-12-11 06:49:52,278 - INFO - Added chat_1_screenshot_1.png to PDF with extracted text.
+2024-12-11 06:49:52,288 - INFO - Removed screenshot file: chat_1_screenshot_1.png
+2024-12-11 06:49:52,288 - INFO - Removed screenshot file: chat_1_screenshot_2.png
+2024-12-11 06:49:52,288 - INFO - Removed screenshot file: chat_1_screenshot_3.png
+2024-12-11 06:49:52,288 - INFO - Removed screenshot file: chat_1_screenshot_4.png
+2024-12-11 06:49:52,288 - INFO - Removed screenshot file: chat_1_screenshot_top.png
+2024-12-11 06:49:52,288 - INFO - Removed screenshot file: chat_2_screenshot.png
+2024-12-11 06:49:54,597 - INFO - WebDriver session closed.
+2024-12-11 06:57:03,344 - INFO - ====== WebDriver manager ======
+2024-12-11 06:57:04,017 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:57:04,240 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:57:04,460 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 06:57:16,366 - INFO - Entered username.
+2024-12-11 06:57:18,889 - INFO - Entered password.
+2024-12-11 06:57:59,038 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 06:58:34,622 - INFO - Total screenshots taken: 6
+2024-12-11 06:58:34,640 - ERROR - Error adding chat_2_screenshot.png to PDF: module 'PIL.Image' has no attribute 'ANTIALIAS'
+2024-12-11 06:58:34,640 - ERROR - Error adding chat_1_screenshot_top.png to PDF: module 'PIL.Image' has no attribute 'ANTIALIAS'
+2024-12-11 06:58:34,640 - ERROR - Error adding chat_1_screenshot_4.png to PDF: module 'PIL.Image' has no attribute 'ANTIALIAS'
+2024-12-11 06:58:34,640 - ERROR - Error adding chat_1_screenshot_3.png to PDF: module 'PIL.Image' has no attribute 'ANTIALIAS'
+2024-12-11 06:58:34,640 - ERROR - Error adding chat_1_screenshot_2.png to PDF: module 'PIL.Image' has no attribute 'ANTIALIAS'
+2024-12-11 06:58:34,640 - ERROR - Error adding chat_1_screenshot_1.png to PDF: module 'PIL.Image' has no attribute 'ANTIALIAS'
+2024-12-11 06:58:34,640 - INFO - Removed screenshot file: chat_1_screenshot_1.png
+2024-12-11 06:58:34,640 - INFO - Removed screenshot file: chat_1_screenshot_2.png
+2024-12-11 06:58:34,640 - INFO - Removed screenshot file: chat_1_screenshot_3.png
+2024-12-11 06:58:34,640 - INFO - Removed screenshot file: chat_1_screenshot_4.png
+2024-12-11 06:58:34,640 - INFO - Removed screenshot file: chat_1_screenshot_top.png
+2024-12-11 06:58:34,640 - INFO - Removed screenshot file: chat_2_screenshot.png
+2024-12-11 06:58:37,256 - INFO - WebDriver session closed.
+2024-12-11 06:59:11,739 - INFO - ====== WebDriver manager ======
+2024-12-11 06:59:12,383 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:59:12,728 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 06:59:13,134 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 06:59:22,899 - INFO - Entered username.
+2024-12-11 06:59:27,064 - INFO - Entered password.
+2024-12-11 06:59:58,527 - ERROR - Failed to load Direct Messages inbox.
+2024-12-11 07:00:30,575 - INFO - Total screenshots taken: 6
+2024-12-11 07:00:30,692 - INFO - Added chat_2_screenshot.png to PDF with extracted text.
+2024-12-11 07:00:30,809 - INFO - Added chat_1_screenshot_top.png to PDF with extracted text.
+2024-12-11 07:00:30,937 - INFO - Added chat_1_screenshot_4.png to PDF with extracted text.
+2024-12-11 07:00:31,065 - INFO - Added chat_1_screenshot_3.png to PDF with extracted text.
+2024-12-11 07:00:31,179 - INFO - Added chat_1_screenshot_2.png to PDF with extracted text.
+2024-12-11 07:00:31,319 - INFO - Added chat_1_screenshot_1.png to PDF with extracted text.
+2024-12-11 07:00:31,351 - INFO - Removed screenshot file: chat_1_screenshot_1.png
+2024-12-11 07:00:31,351 - INFO - Removed screenshot file: chat_1_screenshot_2.png
+2024-12-11 07:00:31,351 - INFO - Removed screenshot file: chat_1_screenshot_3.png
+2024-12-11 07:00:31,351 - INFO - Removed screenshot file: chat_1_screenshot_4.png
+2024-12-11 07:00:31,351 - INFO - Removed screenshot file: chat_1_screenshot_top.png
+2024-12-11 07:00:31,351 - INFO - Removed screenshot file: chat_2_screenshot.png
+2024-12-11 07:00:33,956 - INFO - WebDriver session closed.

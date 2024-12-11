@@ -1,0 +1,417 @@
+2024-12-09 13:39:55,396 - INFO - ====== WebDriver manager ======
+2024-12-09 13:39:56,664 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-09 13:39:57,338 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-09 13:39:57,717 - INFO - Driver [C:\Users\dhwan\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-09 13:40:02,329 - INFO - Entered username and password.
+2024-12-09 13:40:34,241 - INFO - 'Turn On' button not found. Continuing.
+2024-12-09 13:40:34,255 - INFO - Navigated to Direct Messages successfully.
+2024-12-09 13:40:34,268 - INFO - Chat list loaded successfully.
+2024-12-09 13:40:34,281 - INFO - Found 2 chats.
+2024-12-09 13:40:34,438 - INFO - Clicked on chat 1.
+2024-12-09 13:40:38,027 - INFO - Chat container for chat 1 located successfully.
+2024-12-09 13:40:40,200 - INFO - Extracted text from chat 1.
+2024-12-09 13:40:40,200 - INFO - Screenshot taken: chat_1_screenshot_1.png | Extracted Text: ...
+2024-12-09 13:40:40,220 - INFO - Returned to chat list after processing chat 1.
+2024-12-09 13:40:43,164 - INFO - Clicked on chat 2.
+2024-12-09 13:40:46,450 - INFO - Chat container for chat 2 located successfully.
+2024-12-09 13:40:48,621 - INFO - Extracted text from chat 2.
+2024-12-09 13:40:48,621 - INFO - Screenshot taken: chat_2_screenshot_2.png | Extracted Text: ...
+2024-12-09 13:40:48,652 - INFO - Returned to chat list after processing chat 2.
+2024-12-09 13:40:50,758 - INFO - Total screenshots taken: 2
+2024-12-09 13:40:50,758 - ERROR - An unexpected error occurred: generate_pdf() missing 2 required positional arguments: 'accused_name' and 'case_data'
+2024-12-09 13:40:53,056 - INFO - WebDriver session closed.
+2024-12-11 03:41:20,811 - INFO - ====== WebDriver manager ======
+2024-12-11 03:41:21,459 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 03:41:21,720 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 03:41:21,983 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 03:41:25,544 - INFO - Entered username and password.
+2024-12-11 03:41:44,416 - INFO - Clicked on 'Turn On' button.
+2024-12-11 03:41:47,874 - INFO - Navigated to Direct Messages successfully.
+2024-12-11 03:41:47,880 - INFO - Chat list loaded successfully.
+2024-12-11 03:41:47,890 - INFO - Found 8 chats.
+2024-12-11 03:41:47,955 - INFO - Clicked on chat 1.
+2024-12-11 03:41:50,186 - INFO - Chat container for chat 1 located successfully.
+2024-12-11 03:41:53,177 - INFO - Extracted text from chat 1.
+2024-12-11 03:41:53,177 - INFO - Screenshot taken: chat_1_screenshot_1.png | Extracted Text: ...
+2024-12-11 03:41:53,193 - INFO - Returned to chat list after processing chat 1.
+2024-12-11 03:41:56,241 - INFO - Clicked on chat 2.
+2024-12-11 03:41:59,582 - INFO - Chat container for chat 2 located successfully.
+2024-12-11 03:42:02,181 - INFO - Extracted text from chat 2.
+2024-12-11 03:42:02,181 - INFO - Screenshot taken: chat_2_screenshot_2.png | Extracted Text: ...
+2024-12-11 03:42:02,199 - INFO - Returned to chat list after processing chat 2.
+2024-12-11 03:42:05,163 - INFO - Clicked on chat 3.
+2024-12-11 03:42:07,492 - INFO - Chat container for chat 3 located successfully.
+2024-12-11 03:42:09,770 - INFO - Extracted text from chat 3.
+2024-12-11 03:42:09,770 - INFO - Screenshot taken: chat_3_screenshot_3.png | Extracted Text: ...
+2024-12-11 03:42:09,799 - INFO - Returned to chat list after processing chat 3.
+2024-12-11 03:42:12,887 - INFO - Clicked on chat 4.
+2024-12-11 03:42:16,338 - INFO - Chat container for chat 4 located successfully.
+2024-12-11 03:42:19,531 - INFO - Extracted text from chat 4.
+2024-12-11 03:42:19,531 - INFO - Screenshot taken: chat_4_screenshot_4.png | Extracted Text: ...
+2024-12-11 03:42:19,546 - INFO - Returned to chat list after processing chat 4.
+2024-12-11 03:42:22,824 - INFO - Clicked on chat 5.
+2024-12-11 03:42:26,154 - INFO - Chat container for chat 5 located successfully.
+2024-12-11 03:42:28,834 - INFO - Extracted text from chat 5.
+2024-12-11 03:42:28,834 - INFO - Screenshot taken: chat_5_screenshot_5.png | Extracted Text: ...
+2024-12-11 03:42:28,851 - INFO - Returned to chat list after processing chat 5.
+2024-12-11 03:42:31,613 - INFO - Clicked on chat 6.
+2024-12-11 03:42:35,441 - INFO - Chat container for chat 6 located successfully.
+2024-12-11 03:42:38,298 - INFO - Extracted text from chat 6.
+2024-12-11 03:42:38,298 - INFO - Screenshot taken: chat_6_screenshot_6.png | Extracted Text: ...
+2024-12-11 03:42:38,317 - INFO - Returned to chat list after processing chat 6.
+2024-12-11 03:42:40,426 - INFO - Clicked on chat 7.
+2024-12-11 03:42:44,299 - INFO - Chat container for chat 7 located successfully.
+2024-12-11 03:42:46,970 - INFO - Extracted text from chat 7.
+2024-12-11 03:42:46,970 - INFO - Screenshot taken: chat_7_screenshot_7.png | Extracted Text: ...
+2024-12-11 03:42:47,005 - INFO - Returned to chat list after processing chat 7.
+2024-12-11 03:42:50,544 - INFO - Clicked on chat 8.
+2024-12-11 03:42:54,139 - INFO - Chat container for chat 8 located successfully.
+2024-12-11 03:42:56,914 - INFO - Extracted text from chat 8.
+2024-12-11 03:42:56,915 - INFO - Screenshot taken: chat_8_screenshot_8.png | Extracted Text: ...
+2024-12-11 03:42:56,938 - INFO - Returned to chat list after processing chat 8.
+2024-12-11 03:42:59,073 - INFO - Total screenshots taken: 8
+2024-12-11 03:42:59,073 - ERROR - An unexpected error occurred: generate_pdf() missing 1 required positional argument: 'username'
+2024-12-11 03:43:01,315 - INFO - WebDriver session closed.
+2024-12-11 03:45:02,557 - INFO - ====== WebDriver manager ======
+2024-12-11 03:45:03,203 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 03:45:03,454 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 03:45:03,732 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 03:45:07,190 - INFO - Entered username and password.
+2024-12-11 03:45:21,604 - INFO - Clicked on 'Turn On' button.
+2024-12-11 03:45:24,833 - INFO - Navigated to Direct Messages successfully.
+2024-12-11 03:45:24,840 - INFO - Chat list loaded successfully.
+2024-12-11 03:45:24,848 - INFO - Found 8 chats.
+2024-12-11 03:45:24,963 - INFO - Clicked on chat 1.
+2024-12-11 03:45:28,819 - INFO - Chat container for chat 1 located successfully.
+2024-12-11 03:45:30,636 - INFO - Extracted text from chat 1.
+2024-12-11 03:45:30,636 - INFO - Screenshot taken: chat_1_screenshot_1.png | Extracted Text: ...
+2024-12-11 03:45:30,652 - INFO - Returned to chat list after processing chat 1.
+2024-12-11 03:45:33,807 - INFO - Clicked on chat 2.
+2024-12-11 03:45:36,200 - INFO - Chat container for chat 2 located successfully.
+2024-12-11 03:45:37,946 - INFO - Extracted text from chat 2.
+2024-12-11 03:45:37,946 - INFO - Screenshot taken: chat_2_screenshot_2.png | Extracted Text: ...
+2024-12-11 03:45:37,976 - INFO - Returned to chat list after processing chat 2.
+2024-12-11 03:45:41,762 - INFO - Clicked on chat 3.
+2024-12-11 03:45:45,280 - INFO - Chat container for chat 3 located successfully.
+2024-12-11 03:45:48,711 - INFO - Extracted text from chat 3.
+2024-12-11 03:45:48,711 - INFO - Screenshot taken: chat_3_screenshot_3.png | Extracted Text: ...
+2024-12-11 03:45:48,743 - INFO - Returned to chat list after processing chat 3.
+2024-12-11 03:45:51,655 - INFO - Clicked on chat 4.
+2024-12-11 03:45:54,216 - INFO - Chat container for chat 4 located successfully.
+2024-12-11 03:45:56,184 - INFO - Extracted text from chat 4.
+2024-12-11 03:45:56,184 - INFO - Screenshot taken: chat_4_screenshot_4.png | Extracted Text: ...
+2024-12-11 03:45:56,211 - INFO - Returned to chat list after processing chat 4.
+2024-12-11 03:46:00,287 - INFO - Clicked on chat 5.
+2024-12-11 03:46:02,425 - INFO - Chat container for chat 5 located successfully.
+2024-12-11 03:46:05,135 - INFO - Extracted text from chat 5.
+2024-12-11 03:46:05,135 - INFO - Screenshot taken: chat_5_screenshot_5.png | Extracted Text: ...
+2024-12-11 03:46:05,162 - INFO - Returned to chat list after processing chat 5.
+2024-12-11 03:46:07,982 - INFO - Clicked on chat 6.
+2024-12-11 03:46:11,905 - INFO - Chat container for chat 6 located successfully.
+2024-12-11 03:46:14,524 - INFO - Extracted text from chat 6.
+2024-12-11 03:46:14,524 - INFO - Screenshot taken: chat_6_screenshot_6.png | Extracted Text: ...
+2024-12-11 03:46:14,550 - INFO - Returned to chat list after processing chat 6.
+2024-12-11 03:46:17,960 - INFO - Clicked on chat 7.
+2024-12-11 03:46:21,889 - INFO - Chat container for chat 7 located successfully.
+2024-12-11 03:46:24,618 - INFO - Extracted text from chat 7.
+2024-12-11 03:46:24,618 - INFO - Screenshot taken: chat_7_screenshot_7.png | Extracted Text: ...
+2024-12-11 03:46:24,640 - INFO - Returned to chat list after processing chat 7.
+2024-12-11 03:46:28,448 - INFO - Clicked on chat 8.
+2024-12-11 03:46:31,494 - INFO - Chat container for chat 8 located successfully.
+2024-12-11 03:46:33,194 - INFO - Extracted text from chat 8.
+2024-12-11 03:46:33,194 - INFO - Screenshot taken: chat_8_screenshot_8.png | Extracted Text: ...
+2024-12-11 03:46:33,215 - INFO - Returned to chat list after processing chat 8.
+2024-12-11 03:46:36,173 - INFO - Total screenshots taken: 8
+2024-12-11 03:46:36,173 - ERROR - An unexpected error occurred: generate_pdf() missing 1 required positional argument: 'username'
+2024-12-11 03:46:39,429 - INFO - WebDriver session closed.
+2024-12-11 03:54:46,068 - INFO - ====== WebDriver manager ======
+2024-12-11 03:54:46,809 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 03:54:47,088 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 03:54:47,314 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 03:54:50,954 - INFO - Entered username and password.
+2024-12-11 03:55:08,821 - INFO - Clicked on 'Turn On' button.
+2024-12-11 03:55:12,507 - INFO - Navigated to Direct Messages successfully.
+2024-12-11 03:55:12,521 - INFO - Chat list loaded successfully.
+2024-12-11 03:55:12,534 - INFO - Found 8 chats.
+2024-12-11 03:55:12,659 - INFO - Clicked on chat 1.
+2024-12-11 03:55:14,917 - INFO - Chat container for chat 1 located successfully.
+2024-12-11 03:55:18,002 - INFO - Extracted text from chat 1.
+2024-12-11 03:55:18,002 - INFO - Screenshot taken: chat_1_screenshot_1.png | Extracted Text: ...
+2024-12-11 03:55:18,017 - INFO - Returned to chat list after processing chat 1.
+2024-12-11 03:55:21,669 - INFO - Clicked on chat 2.
+2024-12-11 03:55:24,323 - INFO - Chat container for chat 2 located successfully.
+2024-12-11 03:55:26,722 - INFO - Extracted text from chat 2.
+2024-12-11 03:55:26,722 - INFO - Screenshot taken: chat_2_screenshot_2.png | Extracted Text: ...
+2024-12-11 03:55:26,798 - INFO - Returned to chat list after processing chat 2.
+2024-12-11 03:55:30,362 - INFO - Clicked on chat 3.
+2024-12-11 03:55:34,375 - INFO - Chat container for chat 3 located successfully.
+2024-12-11 03:55:37,633 - INFO - Extracted text from chat 3.
+2024-12-11 03:55:37,633 - INFO - Screenshot taken: chat_3_screenshot_3.png | Extracted Text: ...
+2024-12-11 03:55:37,663 - INFO - Returned to chat list after processing chat 3.
+2024-12-11 03:55:40,979 - INFO - Clicked on chat 4.
+2024-12-11 03:55:44,865 - INFO - Chat container for chat 4 located successfully.
+2024-12-11 03:55:46,590 - INFO - Extracted text from chat 4.
+2024-12-11 03:55:46,590 - INFO - Screenshot taken: chat_4_screenshot_4.png | Extracted Text: ...
+2024-12-11 03:55:46,625 - INFO - Returned to chat list after processing chat 4.
+2024-12-11 03:55:50,457 - INFO - Clicked on chat 5.
+2024-12-11 03:55:54,232 - INFO - Chat container for chat 5 located successfully.
+2024-12-11 03:55:57,647 - INFO - Extracted text from chat 5.
+2024-12-11 03:55:57,647 - INFO - Screenshot taken: chat_5_screenshot_5.png | Extracted Text: ...
+2024-12-11 03:55:57,678 - INFO - Returned to chat list after processing chat 5.
+2024-12-11 03:56:01,311 - INFO - Clicked on chat 6.
+2024-12-11 03:56:04,153 - INFO - Chat container for chat 6 located successfully.
+2024-12-11 03:56:05,446 - INFO - Extracted text from chat 6.
+2024-12-11 03:56:05,446 - INFO - Screenshot taken: chat_6_screenshot_6.png | Extracted Text: ...
+2024-12-11 03:56:05,461 - INFO - Returned to chat list after processing chat 6.
+2024-12-11 03:56:09,144 - INFO - Clicked on chat 7.
+2024-12-11 03:56:12,637 - INFO - Chat container for chat 7 located successfully.
+2024-12-11 03:56:15,132 - INFO - Extracted text from chat 7.
+2024-12-11 03:56:15,132 - INFO - Screenshot taken: chat_7_screenshot_7.png | Extracted Text: ...
+2024-12-11 03:56:15,151 - INFO - Returned to chat list after processing chat 7.
+2024-12-11 03:56:17,576 - INFO - Clicked on chat 8.
+2024-12-11 03:56:20,960 - INFO - Chat container for chat 8 located successfully.
+2024-12-11 03:56:24,114 - INFO - Extracted text from chat 8.
+2024-12-11 03:56:24,114 - INFO - Screenshot taken: chat_8_screenshot_8.png | Extracted Text: ...
+2024-12-11 03:56:24,140 - INFO - Returned to chat list after processing chat 8.
+2024-12-11 03:56:26,362 - INFO - Total screenshots taken: 8
+2024-12-11 03:56:26,362 - ERROR - An unexpected error occurred: generate_pdf() missing 1 required positional argument: 'username'
+2024-12-11 03:56:28,622 - INFO - WebDriver session closed.
+2024-12-11 03:57:16,032 - INFO - ====== WebDriver manager ======
+2024-12-11 03:57:16,759 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 03:57:17,006 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 03:57:17,253 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 03:57:20,980 - INFO - Entered username and password.
+2024-12-11 03:57:34,439 - INFO - Clicked on 'Turn On' button.
+2024-12-11 03:57:38,408 - INFO - Navigated to Direct Messages successfully.
+2024-12-11 03:57:38,415 - INFO - Chat list loaded successfully.
+2024-12-11 03:57:38,424 - INFO - Found 8 chats.
+2024-12-11 03:57:38,537 - INFO - Clicked on chat 1.
+2024-12-11 03:57:41,897 - INFO - Chat container for chat 1 located successfully.
+2024-12-11 03:57:44,042 - INFO - Extracted text from chat 1.
+2024-12-11 03:57:44,042 - INFO - Screenshot taken: chat_1_screenshot_1.png | Extracted Text: ...
+2024-12-11 03:57:44,075 - INFO - Returned to chat list after processing chat 1.
+2024-12-11 03:57:48,017 - INFO - Clicked on chat 2.
+2024-12-11 03:57:51,598 - INFO - Chat container for chat 2 located successfully.
+2024-12-11 03:57:54,270 - INFO - Extracted text from chat 2.
+2024-12-11 03:57:54,271 - INFO - Screenshot taken: chat_2_screenshot_2.png | Extracted Text: ...
+2024-12-11 03:57:54,306 - INFO - Returned to chat list after processing chat 2.
+2024-12-11 03:57:57,009 - INFO - Clicked on chat 3.
+2024-12-11 03:58:00,894 - INFO - Chat container for chat 3 located successfully.
+2024-12-11 03:58:03,543 - INFO - Extracted text from chat 3.
+2024-12-11 03:58:03,543 - INFO - Screenshot taken: chat_3_screenshot_3.png | Extracted Text: ...
+2024-12-11 03:58:03,557 - INFO - Returned to chat list after processing chat 3.
+2024-12-11 03:58:06,951 - INFO - Clicked on chat 4.
+2024-12-11 03:58:10,907 - INFO - Chat container for chat 4 located successfully.
+2024-12-11 03:58:13,046 - INFO - Extracted text from chat 4.
+2024-12-11 03:58:13,046 - INFO - Screenshot taken: chat_4_screenshot_4.png | Extracted Text: ...
+2024-12-11 03:58:13,060 - INFO - Returned to chat list after processing chat 4.
+2024-12-11 03:58:15,519 - INFO - Clicked on chat 5.
+2024-12-11 03:58:19,184 - INFO - Chat container for chat 5 located successfully.
+2024-12-11 03:58:23,004 - INFO - Extracted text from chat 5.
+2024-12-11 03:58:23,004 - INFO - Screenshot taken: chat_5_screenshot_5.png | Extracted Text: ...
+2024-12-11 03:58:23,022 - INFO - Returned to chat list after processing chat 5.
+2024-12-11 03:58:27,171 - INFO - Clicked on chat 6.
+2024-12-11 03:58:29,339 - INFO - Chat container for chat 6 located successfully.
+2024-12-11 03:58:32,112 - INFO - Extracted text from chat 6.
+2024-12-11 03:58:32,112 - INFO - Screenshot taken: chat_6_screenshot_6.png | Extracted Text: ...
+2024-12-11 03:58:32,125 - INFO - Returned to chat list after processing chat 6.
+2024-12-11 03:58:35,910 - INFO - Clicked on chat 7.
+2024-12-11 03:58:37,998 - INFO - Chat container for chat 7 located successfully.
+2024-12-11 03:58:40,638 - INFO - Extracted text from chat 7.
+2024-12-11 03:58:40,638 - INFO - Screenshot taken: chat_7_screenshot_7.png | Extracted Text: ...
+2024-12-11 03:58:40,658 - INFO - Returned to chat list after processing chat 7.
+2024-12-11 03:58:43,249 - INFO - Clicked on chat 8.
+2024-12-11 03:58:46,025 - INFO - Chat container for chat 8 located successfully.
+2024-12-11 03:58:48,795 - INFO - Extracted text from chat 8.
+2024-12-11 03:58:48,795 - INFO - Screenshot taken: chat_8_screenshot_8.png | Extracted Text: ...
+2024-12-11 03:58:48,838 - INFO - Returned to chat list after processing chat 8.
+2024-12-11 03:58:51,227 - INFO - Total screenshots taken: 8
+2024-12-11 03:58:51,227 - ERROR - An unexpected error occurred: generate_pdf() missing 1 required positional argument: 'username'
+2024-12-11 03:58:53,545 - INFO - WebDriver session closed.
+2024-12-11 03:59:42,099 - INFO - ====== WebDriver manager ======
+2024-12-11 03:59:42,766 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 03:59:43,077 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 03:59:43,326 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 03:59:47,725 - INFO - Entered username and password.
+2024-12-11 04:00:13,708 - INFO - 'Turn On' button not found. Continuing.
+2024-12-11 04:00:13,756 - INFO - Navigated to Direct Messages successfully.
+2024-12-11 04:00:13,765 - INFO - Chat list loaded successfully.
+2024-12-11 04:00:13,787 - INFO - Found 14 chats.
+2024-12-11 04:00:14,893 - ERROR - An unexpected error occurred: Message: element click intercepted: Element <div role="listitem" class="x9f619 x1n2onr6 x1ja2u2z x1qjc9v5 x78zum5 xdt5ytf x1iyjqo2 xl56j7k xeuugli xxsgkw5">...</div> is not clickable at point (271, 303). Other element would receive the click: <div class="x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k" style="--fds-black: black; --fds-black-alpha-05: rgba(0, 0, 0, 0.05); --fds-black-alpha-10: rgba(0, 0, 0, 0.1); --fds-black-alpha-15: rgba(0, 0, 0, 0.15); --fds-black-alpha-20: rgba(0, 0, 0, 0.2); --fds-black-alpha-30: rgba(0, 0, 0, 0.3); --fds-black-alpha-40: rgba(0, 0, 0, 0.4); --fds-black-alpha-50: rgba(0, 0, 0, 0.5); --fds-black-alpha-60: rgba(0, 0, 0, 0.6); --fds-black-alpha-80: rgba(0, 0, 0, 0.8); --fds-blue-05: black; --fds-blue-30: black; --fds-blue-40: black; --fds-blue-60: black; --fds-blue-70: black; --fds-blue-80: black; --fds-button-text: black; --fds-comment-background: black; --fds-dark-mode-gray-35: black; --fds-dark-mode-gray-50: black; --fds-dark-mode-gray-70: black; --fds-dark-mode-gray-80: black; --fds-dark-mode-gray-90: black; --fds-dark-mode-gray-100: black; --fds-gray-00: black; --fds-gray-05: black; --fds-gray-10: black; --fds-gray-20: black; --fds-gray-25: black; --fds-gray-30: black; --fds-gray-45: black; --fds-gray-70: black; --fds-gray-80: black; --fds-gray-90: black; --fds-gray-100: black; --fds-green-55: black; --fds-green-65: black; --fds-highlight: black; --fds-highlight-cell-background: black; --fds-primary-icon: white; --fds-primary-text: white; --fds-red-55: black; --fds-soft: cubic-bezier(.08,.52,.52,1); --fds-spectrum-aluminum-tint-70: black; --fds-spectrum-blue-gray-tint-70: black; --fds-spectrum-cherry: black; --fds-spectrum-cherry-tint-70: black; --fds-spectrum-grape-tint-70: black; --fds-spectrum-grape-tint-90: black; --fds-spectrum-lemon-dark-1: black; --fds-spectrum-lemon-tint-70: black; --fds-spectrum-lime: black; --fds-spectrum-lime-tint-70: black; --fds-spectrum-orange-tint-70: black; --fds-spectrum-orange-tint-90: black; --fds-spectrum-seafoam-tint-70: black; --fds-spectrum-slate-dark-2: black; --fds-spectrum-slate-tint-70: black; --fds-spectrum-teal: black; --fds-spectrum-teal-dark-1: black; --fds-spectrum-teal-dark-2: black; --fds-spectrum-teal-tint-70: black; --fds-spectrum-teal-tint-90: black; --fds-spectrum-tomato: black; --fds-spectrum-tomato-tint-30: black; --fds-spectrum-tomato-tint-90: black; --fds-strong: cubic-bezier(.12,.8,.32,1); --fds-unified-blue-35: black; --fds-unified-gray-20: black; --fds-white: black; --fds-white-alpha-05: rgba(255, 255, 255, 0.05); --fds-white-alpha-10: rgba(255, 255, 255, 0.1); --fds-white-alpha-20: rgba(255, 255, 255, 0.2); --fds-white-alpha-30: rgba(255, 255, 255, 0.3); --fds-white-alpha-40: rgba(255, 255, 255, 0.4); --fds-white-alpha-50: rgba(255, 255, 255, 0.5); --fds-white-alpha-60: rgba(255, 255, 255, 0.6); --fds-white-alpha-80: rgba(255, 255, 255, 0.8); --fds-yellow-20: black; --accent: #0095F6; --always-white: white; --always-black: black; --always-dark-gradient: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6)); --always-dark-overlay: rgba(0, 0, 0, 0.4); --always-light-overlay: rgba(255, 255, 255, 0.4); --always-gray-40: #65676B; --always-gray-75: #BCC0C4; --always-gray-95: #F0F2F5; --attachment-footer-background: rgba(255,255,255,0.1); --background-deemphasized: rgba(255,255,255,0.1); --badge-background-color-blue: var(--accent); --badge-background-color-dark-gray: var(--secondary-icon); --badge-background-color-gray: var(--disabled-icon); --badge-background-color-green: var(--positive); --badge-background-color-light-blue: var(--highlight-bg); --badge-background-color-red: var(--notification-badge); --badge-background-color-yellow: var(--base-lemon); --base-blue: #1877F2; --base-cherry: #F3425F; --base-grape: #9360F7; --base-lemon: #F7B928; --base-lime: #45BD62; --base-pink: #FF66BF; --base-seafoam: #54C7EC; --base-teal: #2ABBA7; --base-tomato: #FB724B; --text-badge-info-background: hsl(214, 100%, 59%); --text-badge-success-background: #31A24C; --text-badge-attention-background: hsl(40, 89%, 52%); --text-badge-critical-background: #e41e3f; --blue-link: #00376B; --border-focused: #8A8D91; --card-background: #242526; --card-background-flat: #323436; --comment-background: #3A3B3C; --comment-footer-background: #4E4F50; --dataviz-primary-1: rgb(0,174,143); --disabled-button-background: rgba(255, 255, 255, 0.2); --disabled-button-text: rgba(255, 255, 255, 0.3); --disabled-icon: rgba(255, 255, 255, 0.3); --disabled-text: rgba(255, 255, 255, 0.3); --divider: #3E4042; --event-date: #F3425F; --fb-wordmark: #FFFFFF; --fb-logo: #0866FF; --filter-accent: invert(40%) sepia(52%) saturate(200%) saturate(200%) saturate(200%) saturate(189%) hue-rotate(191deg) brightness(103%) contrast(102%); --filter-always-white: invert(100%); --filter-disabled-icon: invert(100%) opacity(30%); --filter-placeholder-icon: invert(59%) sepia(11%) saturate(200%) saturate(135%) hue-rotate(176deg) brightness(96%) contrast(94%); --filter-primary-accent: invert(40%) sepia(52%) saturate(200%) saturate(200%) saturate(200%) saturate(189%) hue-rotate(191deg) brightness(103%) contrast(102%); --filter-primary-icon: invert(89%) sepia(6%) hue-rotate(185deg); --filter-secondary-icon: invert(62%) sepia(98%) saturate(12%) hue-rotate(175deg) brightness(90%) contrast(96%); --filter-warning-icon: invert(77%) sepia(29%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(128%) hue-rotate(359deg) brightness(102%) contrast(107%); --filter-blue-link-icon: invert(73%) sepia(29%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(103.25%) hue-rotate(189deg) brightness(101%) contrast(101%); --filter-positive: invert(37%) sepia(61%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(115%) hue-rotate(91deg) brightness(97%) contrast(105%); --filter-primary-deemphasized-button-icon: brightness(0) saturate(100%) invert(63%) sepia(20%) saturate(1290%) hue-rotate(185deg) brightness(107%) contrast(101%); --filter-negative: invert(25%) sepia(33%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(110%) hue-rotate(345deg) brightness(132%) contrast(96%); --focus-ring-blue: #1877F2; --glimmer-spinner-icon: white; --hero-banner-background: #E85D07; --hosted-view-selected-state: rgba(45, 136, 255, 0.1); --highlight-bg: rgba(24, 119, 242, .31); --hover-overlay: rgba(255, 255, 255, 0.1); --inverse-text: var(--always-white); --list-cell-chevron: #B0B3B8; --media-hover: rgba(68, 73, 80, 0.15); --media-inner-border: rgba(255, 255, 255, 0.05); --media-outer-border: #33363A; --media-pressed: rgba(68, 73, 80, 0.35); --messenger-card-background: #242526; --messenger-card-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.3); --mwp-header-background-color: var(--messenger-card-background); --mwp-header-button-color: var(--accent); --mwp-message-row-background: var(--messenger-card-background); --messenger-reply-background: #18191A; --overlay-alpha-80: rgba(0, 0, 0, 0.65); --overlay-on-media: rgba(0, 0, 0, 0.6); --nav-bar-background: #242526; --popover-card-background: var(--card-background); --nav-bar-background-gradient: linear-gradient(to top, #242526, rgba(36,37,38,.9), rgba(36,37,38,.7), rgba(36,37,38,.4), rgba(36,37,38,0)); --nav-bar-background-gradient-wash: linear-gradient(to top, #18191A, rgba(24,25,26,.9), rgba(24,25,26,.7), rgba(24,25,26,.4), rgba(24,25,26,0)); --negative: hsl(350, 87%, 55%); --negative-background: hsl(350, 87%, 55%, 20%); --new-notification-background: #E7F3FF; --non-media-pressed: rgba(68, 73, 80, 0.15); --non-media-pressed-on-dark: rgba(255, 255, 255, 0.3); --notification-badge: #e41e3f; --placeholder-icon: #8A8D91; --placeholder-image: rgb(164, 167, 171); --placeholder-text: #8A8D91; --placeholder-text-on-media: rgba(255, 255, 255, 0.5); --popover-background: #3E4042; --positive: #31A24C; --positive-background: #1F3520; --press-overlay: rgba(255, 255, 255, 0.2); --primary-button-background: #0095F6; --primary-button-icon: #FFFFFF; --primary-button-pressed: #77A7FF; --primary-button-text: #FFFFFF; --primary-deemphasized-button-background: rgba(45, 136, 255, 0.2); --primary-deemphasized-button-pressed: rgba(24, 119, 242, 0.2); --primary-deemphasized-button-pressed-overlay: rgba(25, 110, 255, 0.15); --primary-deemphasized-button-text: #2D88FF; --primary-icon: #E4E6EB; --primary-text: #E4E6EB; --primary-text-on-media: white; --primary-web-focus-indicator: #D24294; --progress-ring-neutral-background: rgba(255, 255, 255, 0.2); --progress-ring-neutral-foreground: #ffffff; --progress-ring-on-media-background: rgba(255, 255, 255, 0.2); --progress-ring-on-media-foreground: #FFFFFF; --progress-ring-blue-background: rgba(45, 136, 255, 0.2); --progress-ring-blue-foreground: hsl(214, 100%, 59%); --progress-ring-disabled-background: rgba(122,125,130, 0.2); --progress-ring-disabled-foreground: #7A7D82; --rating-star-active: #FF9831; --scroll-thumb: rgba(255, 255, 255, 0.3); --scroll-shadow: 0 1px 2px rgba(0, 0, 0, 0.1), 0 -1px rgba(255, 255, 255, 0.05) inset; --secondary-button-background: rgba(255,255,255,.1); --secondary-button-background-floating: #4B4C4F; --secondary-button-background-on-dark: rgba(255, 255, 255, 0.4); --secondary-button-pressed: rgba(0, 0, 0, 0.05); --secondary-button-stroke: transparent; --secondary-button-text: #E4E6EB; --secondary-icon: #B0B3B8; --secondary-text: #B0B3B8; --secondary-text-on-media: rgba(255, 255, 255, 0.9); --section-header-text: #BCC0C4; --shadow-1: rgba(0, 0, 0, 0.1); --shadow-2: rgba(0, 0, 0, 0.2); --shadow-5: rgba(0, 0, 0, 0.5); --shadow-8: rgba(0, 0, 0, 0.8); --shadow-base: 0 1px 2px var(--shadow-2); --shadow-elevated: 0 8px 20px 0 rgba(0, 0, 0, 0.2), 0 2px 4px 0 rgba(0, 0, 0, 0.1); --shadow-emphasis: 0 2px 12px var(--shadow-2); --shadow-inset: rgba(255, 255, 255, 0.05); --shadow-on-media: 0px 0px 1px rgba(0, 0, 0, 0.62); --shadow-persistent: 0px 0px 12px rgba(28, 43, 51, 0.6); --shadow-primary: 0px 0px 12px rgba(28, 43, 51, 0.1); --shadow-responsive: 0px 8px 16px 0px rgba(0, 0, 0, 0.1); --surface-background: #242526; --switch-active: hsl(214, 100%, 59%); --switch-inactive: #3E4042; --text-highlight: rgba(24, 119, 242, 0.45); --input-background: #242526; --input-background-hover: var(--input-background); --input-background-warn-hover: hsla(var(--warning-h), var(--warning-s), var(--warning-l), 0.05); --input-background-error-hover: hsla(var(--negative-h), var(--negative-s), var(--negative-l), 0.05); --input-background-active: hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0.05); --input-background-warn-active: hsla(var(--warning-h), var(--warning-s), var(--warning-l), 0.05); --input-background-error-active: hsla(var(--negative-h), var(--negative-s), var(--negative-l), 0.05); --input-background-disabled: #18191A; --input-border-color: #3E4042; --input-border-color-hover: var(--placeholder-text); --input-label-color-highlighted: hsl(214, 100%, 59%); --input-label-color-inside: var(--secondary-text); --input-label-color-error: var(--negative); --input-label-color-disabled: var(--disabled-text); --text-input-outside-label: #FFFFFF; --toast-background: #242526; --toast-text: #FFFFFF; --toast-text-link: #4599FF; --toast-border-color: transparent; --toast-border-style: none; --toast-border-width: 0px; --toggle-active-background: rgb(45, 136, 255); --toggle-active-icon: #FFFFFF; --toggle-active-text: #FFFFFF; --toggle-button-active-background: #E6F2FF; --tooltip-background: rgba(11, 11, 11, 0.8); --tooltip-box-shadow: 0 2px 4px 0 var(--shadow-5); --popover-border-color: transparent; --wash: #3E4042; --web-wash: #18191A; --warning: hsl(40, 89%, 52%); --chat-bubble-emphasis-ring-after: white; --chat-bubble-emphasis-ring-before: black; --chat-text-blockquote-color-background-line: rgba(255, 255, 255, 0.19); --chat-text-blockquote-color-text-primary-media: rgba(255, 255, 255, 0.7); --chat-incoming-message-bubble-background-color: #303030; --chat-outgoing-message-bubble-background-color: var(--accent); --chat-replied-message-background-color: rgba(255, 255, 255, 0.12); --radio-border-color: var(--primary-icon); --radio-border-color-disabled: var(--disabled-button-background); --radio-border-color-selected: var(--accent); --radio-checked-icon-color: var(--accent); --radio-checked-icon-color-disabled: var(--disabled-button-background); --dialog-anchor-vertical-padding: 56px; --header-height: 0px; --global-panel-width: 0px; --global-panel-width-expanded: 0px; --alert-banner-corner-radius: 8px; --button-corner-radius: 4px; --button-corner-radius-medium: 10px; --button-corner-radius-large: 12px; --button-height-large: 40px; --button-height-medium: 36px; --button-padding-horizontal-large: 16px; --button-padding-horizontal-medium: 16px; --button-padding-icon-only: 16px; --button-icon-padding-large: 16px; --button-icon-padding-medium: 16px; --button-inner-icon-spacing-large: 3px; --button-inner-icon-spacing-medium: 3px; --blueprint-button-height-medium: 40px; --blueprint-button-height-large: 48px; --card-corner-radius: 4px; --card-box-shadow: 0 12px 28px 0 var(--shadow-2), 0 2px 4px 0 var(--shadow-1); --card-padding-horizontal: 10px; --card-padding-vertical: 20px; --chip-corner-radius: 6px; --dialog-corner-radius: 8px; --glimmer-corner-radius: 8px; --image-corner-radius: 4px; --input-corner-radius: 6px; --input-border-width: 1px; --nav-list-cell-corner-radius: 8px; --list-cell-corner-radius: 8px; --list-cell-min-height: 52px; --list-cell-padding-vertical: 20px; --list-cell-padding-vertical-with-addon: 14px; --menu-base-list-item-padding-horizontal: 8px; --menu-base-list-item-padding-vertical: 12px; --menu-base-size-full-margin-end: 48px; --menu-item-base-margin-horizontal: 8px; --menu-item-base-margin-vertical: 0px; --menu-item-base-padding-horizontal: 8px; --menu-item-base-overlay-radius: 4px; --menu-item-base-padding-vertical: 12px; --menu-item-base-with-icon-padding-horizontal: var(--menu-item-base-padding-horizontal); --separator-menu-item-margin-horizontal: 16px; --separator-menu-item-margin-vertical: 4px; --nav-list-cell-min-height: 0px; --nav-list-cell-padding-vertical: 16px; --nav-list-cell-padding-vertical-with-addon: 16px; --nux-card-body-padding-end: 24px; --page-footer-padding-vertical: 16px; --popover-border-style: none; --popover-border-width: 0px; --section-header-addOnEnd-margin-horizontal: 8px; --section-header-addOnStart-margin-horizontal: 12px; --section-header-addOnEnd-button-padding-horizontal: 0px; --section-header-addOnEnd-button-padding-vertical: 0px; --section-header-padding-vertical: 16px; --section-header-subtitle-margin-vertical: 14px; --section-header-subtitle-with-addOnEnd-margin-vertical: 6px; --tab-height: 60px; --tab-icon-padding-end: 0px; --tab-text-icon-gap: 4px; --tab-underline-color: transparent; --tab-underline-height: 3px; --text-badge-corner-radius: 4px; --text-badge-padding-horizontal: 6px; --text-badge-padding-vertical: 6px; --text-input-multi-padding-between-text-scrollbar: 20px; --text-input-multi-padding-scrollbar: 16px; --text-input-caption-margin-top: 10px; --text-input-padding-vertical: 12px; --toast-addon-padding-horizontal: 6px; --toast-addon-padding-vertical: 6px; --toast-container-max-width: 100%; --toast-container-min-width: 288px; --toast-container-padding-horizontal: 10px; --toast-container-padding-vertical: 16px; --toast-corner-radius: 8px; --toaster-view-max-width: 328px; --tooltip-corner-radius: 8px; --typeahead-list-outer-padding-vertical: 2px; --fds-animation-enter-exit-in: cubic-bezier(0.14, 1, 0.34, 1); --fds-animation-enter-exit-out: cubic-bezier(0.45, 0.1, 0.2, 1); --fds-animation-swap-shuffle-in: cubic-bezier(0.14, 1, 0.34, 1); --fds-animation-swap-shuffle-out: cubic-bezier(0.45, 0.1, 0.2, 1); --fds-animation-move-in: cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-move-out: cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-expand-collapse-in: cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-expand-collapse-out: cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-passive-move-in: cubic-bezier(0.5, 0, 0.1, 1); --fds-animation-passive-move-out: cubic-bezier(0.5, 0, 0.1, 1); --fds-animation-quick-move-in: cubic-bezier(0.1, 0.9, 0.2, 1); --fds-animation-quick-move-out: cubic-bezier(0.1, 0.9, 0.2, 1); --fds-animation-fade-in: cubic-bezier(0, 0, 1, 1); --fds-animation-fade-out: cubic-bezier(0, 0, 1, 1); --fds-duration-extra-extra-short-in: 100ms; --fds-duration-extra-extra-short-out: 100ms; --fds-duration-extra-short-in: 200ms; --fds-duration-extra-short-out: 150ms; --fds-duration-short-in: 280ms; --fds-duration-short-out: 200ms; --fds-duration-medium-in: 400ms; --fds-duration-medium-out: 350ms; --fds-duration-long-in: 500ms; --fds-duration-long-out: 350ms; --fds-duration-extra-long-in: 1000ms; --fds-duration-extra-long-out: 1000ms; --fds-duration-none: 0ms; --fds-fast: 200ms; --fds-slow: 400ms; --font-family-apple: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif; --font-family-code: ui-monospace, Menlo, Consolas, Monaco, monospace; --font-family-default: Helvetica, Arial, sans-serif; --font-family-segoe: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif; --body-font-family: Placeholder Font; --body-font-size: 0.9375rem; --body-font-weight: 400; --body-line-height: 1.3333; --body-emphasized-font-family: Placeholder Font; --body-emphasized-font-size: 0.9375rem; --body-emphasized-font-weight: 600; --body-emphasized-line-height: 1.3333; --headline1-font-family: Optimistic Display Bold, system-ui, sans-serif; --headline1-font-size: 1.75rem; --headline1-font-weight: 700; --headline1-line-height: 1.2143; --headline2-font-family: Optimistic Display Bold, system-ui, sans-serif; --headline2-font-size: 1.5rem; --headline2-font-weight: 700; --headline2-line-height: 1.25; --headline3-font-family: Optimistic Display Bold, system-ui, sans-serif; --headline3-font-size: 1.0625rem; --headline3-font-weight: 700; --headline3-line-height: 1.2941; --meta-font-family: Placeholder Font; --meta-font-size: 0.8125rem; --meta-font-weight: 400; --meta-line-height: 1.3846; --meta-emphasized-font-family: Placeholder Font; --meta-emphasized-font-size: 0.8125rem; --meta-emphasized-font-weight: 600; --meta-emphasized-line-height: 1.3846; --primary-label-font-family: Optimistic Display Medium, system-ui, sans-serif; --primary-label-font-size: 1.0625rem; --primary-label-font-weight: 500; --primary-label-line-height: 1.2941; --secondary-label-font-family: Placeholder Font; --secondary-label-font-size: 0.9375rem; --secondary-label-font-weight: 500; --secondary-label-line-height: 1.3333; --tertiary-label-font-family: Placeholder Font; --tertiary-label-font-size: 0.6875rem; --tertiary-label-font-weight: 500; --tertiary-label-line-height: 1.4545; --text-input-field-font-family: Placeholder Font; --text-input-field-font-size: 1rem; --text-input-field-font-stretch: initial; --text-input-field-font-weight: 500; --text-input-field-line-height: 1.2941; --text-input-label-font-family: Placeholder Font; --text-input-label-font-size: 17px; --text-input-label-font-size-scale-multiplier: 0.75; --text-input-label-font-stretch: initial; --text-input-label-font-weight: 400; --text-input-label-line-height: 1.2941; --messenger-card-min-width: 300px; --messenger-card-max-width: 480px; --messenger-application-max-width: 2560px; --messenger-sidebar-collapsed-width: 44px; --messenger-sidebar-expanded-width: 240px; --messenger-card-corner-radius: 8px; --messenger-card-spacing: 16px; --chat-bubble-padding-vertical: 8px; --chat-bubble-padding-horizontal: 12px; --chat-bubble-border-radius: 18px; --dialog-size-medium-width: 100%; --dialog-size-small-width: 100%; --focus-ring-outline-link: 2px auto var(--focus-ring-blue); --focus-ring-shadow-default: 0 0 0 2px var(--always-white), 0 0 0 4px var(--focus-ring-blue); --focus-ring-shadow-inset: 0 0 0 2px var(--focus-ring-blue) inset, 0 0 0 4px var(--always-white) inset; --glimmer-animation-direction: alternate; --glimmer-animation-duration: 1000ms; --glimmer-animation-timing-function: steps(10, end); --glimmer-opacity-min: 0.25; --glimmer-opacity-max: 1; --radio-checked-icon-size-large: 12px; --radio-checked-icon-size-medium: 12px; --radio-border-width: 2px; --radio-size-large: 24px; --radio-size-medium: 20px; --blue-primary: rgb(0,136,244); --blue-secondary: rgb(235,245,255); --blue-tertiary: rgb(4,59,114); --chartreuse-primary: rgb(106,147,22); --chartreuse-secondary: rgb(226,255,152); --chartreuse-tertiary: rgb(50,65,19); --cyan-primary: rgb(0,142,213); --cyan-secondary: rgb(231,245,255); --cyan-tertiary: rgb(15,63,93); --dataviz-primary-2: rgb(156,219,255); --dataviz-primary-3: rgb(73,156,255); --dataviz-secondary-1: rgb(92,87,210); --dataviz-secondary-2: rgb(142,129,255); --dataviz-secondary-3: rgb(119,45,88); --dataviz-supplementary-1: rgb(253,91,67); --dataviz-supplementary-2: rgb(161,132,0); --dataviz-supplementary-3: rgb(36,131,44); --dataviz-supplementary-4: rgb(232,234,238); --fuschia-primary: rgb(250,45,138); --fuschia-secondary: rgb(255,241,246); --fuschia-tertiary: rgb(118,14,62); --green-primary: rgb(43,154,53); --green-secondary: rgb(227,250,224); --green-tertiary: rgb(26,68,27); --magenta-primary: rgb(215,77,204); --magenta-secondary: rgb(255,239,254); --magenta-tertiary: rgb(96,36,91); --orange-primary: rgb(208,108,20); --orange-secondary: rgb(255,241,239); --orange-tertiary: rgb(94,49,14); --purple-primary: rgb(125,116,255); --purple-secondary: rgb(245,241,255); --purple-tertiary: rgb(55,50,121); --red-primary: rgb(251,60,68); --red-secondary: rgb(255,241,239); --red-tertiary: rgb(118,22,27); --teal-primary: rgb(0,152,124); --teal-secondary: rgb(227,247,241); --teal-tertiary: rgb(10,68,56); --yellow-primary: rgb(161,132,0); --yellow-secondary: rgb(255,246,161); --yellow-tertiary: rgb(72,59,12); --base-unit: 4px; --blue-0: 245, 251, 255; --blue-1: 224, 241, 255; --blue-2: 179, 219, 255; --blue-3: 112, 188, 255; --blue-4: 71, 175, 255; --blue-5: 0, 149, 246; --blue-6: 0, 116, 204; --blue-7: 0, 87, 163; --blue-8: 0, 55, 107; --blue-9: 0, 41, 82; --breakpoint-medium-width: 1536px; --breakpoint-small-width: 1024px; --challenge-width: 460px; --creation-header-height: 43px; --creation-min-padding-x: 32px; --creation-modal-max-height: 898px; --creation-modal-min-height: 391px; --creation-padding-x: 64px; --creation-padding-y: 112px; --creation-settings-width: 340px; --cyan-5: 39, 196, 245; --desktop-grid-item-margin: 28px; --desktop-grid-item-margin-slim: 4px; --desktop-in-feed-story-item-height: 208px; --desktop-in-feed-story-item-width: 116px; --desktop-nav-height: 60px; --desktop-skinny-nav-height: 60px; --desktop-story-tray-bottom-margin: 48px; --desktop-story-tray-bottom-margin-denser: 24px; --direct-attachment-image-grid-item-size: 78px; --direct-attachment-story-height: 150px; --direct-attachment-story-large-height: 256px; --direct-attachment-story-large-width: 164px; --direct-attachment-story-width: 84px; --direct-message-max-width: 236px; --fb-signup-page-profile-pic-size: 88px; --feed-sidebar-padding: 32px; --feed-sidebar-width: 319px; --feed-width: 470px; --feed-width-wide-story: 630px; --feed-width-wide-story-prism: 702px; --font-family-system: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; --font-family-system-prism: &quot;Instagram Sans UI&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; --font-weight-system-bold: 700; --font-weight-system-extra-bold: 800; --font-weight-system-extra-light: 200; --font-weight-system-light: 300; --font-weight-system-medium: 500; --font-weight-system-regular: 400; --font-weight-system-semibold: 600; --footer-width-wide: 1150px; --gradient-lavender: 211, 0, 197; --gradient-orange: 255, 122, 0; --gradient-pink: 255, 1, 105; --gradient-purple: 118, 56, 250; --gradient-red: 255, 48, 64; --gradient-yellow: 255, 214, 0; --green-4: 120, 222, 69; --green-5: 88, 195, 34; --green-6: 55, 166, 0; --grey-0: 245, 245, 245; --grey-1: 239, 239, 239; --grey-2: 219, 219, 219; --grey-3: 199, 199, 199; --grey-4: 168, 168, 168; --grey-5: 142, 142, 142; --grey-6: 115, 115, 115; --grey-7: 85, 85, 85; --grey-8: 54, 54, 54; --grey-9: 38, 38, 38; --grey-10: 26, 26, 26; --grey-0-prism: 248, 249, 249; --grey-1-prism: 243, 245, 247; --grey-2-prism: 233, 237, 240; --grey-3-prism: 219, 223, 228; --grey-4-prism: 162, 170, 180; --grey-5-prism: 131, 137, 147; --grey-6-prism: 111, 118, 128; --grey-7-prism: 94, 100, 109; --grey-8-prism: 50, 53, 57; --grey-9-prism: 41, 41, 46; --grey-10-prism: 33, 35, 38; --ig-badge: 255, 48, 64; --ig-close-friends-refreshed: 28, 209, 79; --ig-disabled-action-text: 169, 219, 255; --ig-error-or-destructive: 237, 73, 86; --ig-facebook-blue: 53, 121, 234; --ig-live-badge: 255, 1, 105; --ig-primary-button: 0, 149, 246; --ig-primary-button-hover: 24, 119, 242; --ig-secondary-icon: 142, 142, 142; --ig-stroke-on-media: 255, 255, 255; --ig-tertiary-button-background: 255, 255, 255; --ig-tertiary-button-border: 219, 219, 219; --ig-tertiary-button-hover: 245, 245, 245; --ig-tertiary-button-text: 38, 38, 38; --ig-subscribers-only: 118, 56, 250; --ig-success: 88, 195, 34; --ig-text-on-color: 255, 255, 255; --ig-text-on-media: 255, 255, 255; --in-feed-story-item-height: 240px; --in-feed-story-item-width: 135px; --in-feed-story-item-padding: 12px; --input-border-radius: 6px; --large-layout-min: 1500px; --live-video-border-radius: 4px; --media-content-card-width: 350px; --media-content-card-width-small: 300px; --media-info: 335px; --medium-layout-max: 1499px; --medium-layout-min: 1080px; --medium-screen-max: 875px; --medium-screen-min: 736px; --mobile-grid-item-margin: 2px; --mobile-nav-height: 45px; --modal-backdrop-dark: rgba(0, 0, 0, 0.85); --modal-backdrop-default: rgba(0, 0, 0, 0.65); --modal-border-radius: 12px; --modal-padding: 16px; --modal-z-index: 100; --nav-narrow-width: 72px; --nav-medium-width: 244px; --nav-wide-width: 335px; --nav-bottom-screen-max: 767px; --nav-narrow-screen-min: 768px; --nav-medium-screen-min: 1264px; --nav-wide-screen-min: 1920px; --orange-5: 253, 141, 50; --photo: 600px; --pink-5: 209, 8, 105; --polaris-feed-with-padding-threshold-min: 640px; --polaris-extra-small-screen-max: 413px; --polaris-small-screen-min: 414px; --polaris-small-screen-max: 735px; --polaris-medium-screen-min: 736px; --polaris-medium-screen-max: 875px; --polaris-large-screen-min: 876px; --polaris-nav-bottom-screen-max: 767px; --polaris-post-modal-small-screen-max: 1366px; --polaris-post-modal-large-screen-min: 1536px; --polaris-post-modal-large-height-max: 1032px; --polaris-challenge-width: 460px; --polaris-breakpoint-medium-width: 1536px; --polaris-breakpoint-small-width: 1024px; --polaris-site-width-narrow: 600px; --polaris-site-width-wide: 935px; --polaris-site-padding-top: 30px; --purple-5: 163, 7, 186; --red-4: 255, 104, 116; --red-5: 237, 73, 86; --red-6: 198, 35, 48; --red-7: 167, 3, 17; --reels-large-screen-min: 1366px; --refinement-section-height: 50px; --revamp-nav-bottom-toolbar-height: 50px; --revamp-feed-card-max-height: 835px; --revamp-feed-card-min-height: 615px; --revamp-feed-card-media-min-width: 390px; --revamp-feed-card-dense-padding: 16px; --revamp-feed-item-spacing: 20px; --revamp-feed-horizontal-padding-small-screen: 24px; --revamp-feed-horizontal-padding-large-screen: 32px; --revamp-feed-vertical-padding: 32px; --right-rail-width: 300px; --scrollable-content-header-height-large: 56px; --scrollable-content-header-height-med: 49px; --scrollable-content-header-height: 44px; --search-box-height: 40px; --search-modal-height-expanded: 450px; --search-modal-height: 362px; --search-modal-top-offset: 12px; --search-result-height: 50px; --search-result-inline-top-offset: 60px; --search-result-list-width: 375px; --site-width-narrow: 600px; --site-width-wide: 935px; --small-layout-max: 1079px; --small-layout-min: 800px; --small-screen-max: 735px; --small-screen-min: 414px; --story-progressbar-update-tick: 0.1s; --story-swap-animation-duration: 350ms; --system-10-font-size: 10px; --system-10-line-height: 12px; --system-11-font-size: 11px; --system-11-line-height: 13px; --system-12-font-size: 12px; --system-12-line-height: 16px; --system-14-font-size: 14px; --system-14-line-height: 18px; --system-16-font-size: 16px; --system-16-line-height: 20px; --system-18-font-size: 18px; --system-18-line-height: 24px; --system-20-font-size: 20px; --system-20-line-height: 25px; --system-22-font-size: 22px; --system-22-line-height: 26px; --system-24-font-size: 24px; --system-24-line-height: 27px; --system-26-font-size: 26px; --system-26-line-height: 28px; --system-28-font-size: 28px; --system-28-line-height: 32px; --system-30-font-size: 30px; --system-30-line-height: 36px; --system-32-font-size: 32px; --system-32-line-height: 40px; --web-always-black: 0, 0, 0; --web-always-white: 255, 255, 255; --web-overlay-on-media: 38, 38, 38; --web-prism-black: 15, 20, 25; --web-secondary-action: 224, 241, 255; --yellow-5: 253, 203, 92; --barcelona-logo: 255, 255, 255; --challenge-link: 219, 219, 219; --ig-banner-background: 38, 38, 38; --ig-elevated-background: 38, 38, 38; --ig-elevated-highlight-background: 54, 54, 54; --ig-elevated-separator: 54, 54, 54; --ig-focus-stroke: 85, 85, 85; --ig-highlight-background: 38, 38, 38; --ig-hover-overlay: 255, 255, 255, 0.1; --ig-link: 224, 241, 255; --ig-primary-background: 0, 0, 0; --ig-primary-icon: 245, 245, 245; --ig-primary-text: 245, 245, 245; --ig-secondary-background: 26, 26, 26; --ig-secondary-button: 245, 245, 245; --ig-secondary-button-background: 85, 85, 85, 0.7; --ig-secondary-button-hover: 54, 54, 54; --ig-secondary-text: 168, 168, 168; --ig-separator: 38, 38, 38; --ig-stroke: 54, 54, 54; --ig-temporary-highlight: 0, 149, 246; --ig-tertiary-icon: 115, 115, 115; --ig-tertiary-text: 115, 115, 115; --post-separator: 38, 38, 38; --tos-box-shadow: 255, 255, 255; --ig-primary-link-pressed-prism-ab: 233, 237, 240; --ig-primary-link-pressed-prism-c: 0, 116, 204; --ig-primary-link-prism-ab: 248, 249, 249; --ig-primary-link-prism-c: 0, 149, 246; --ig-primary-button-text-pressed-prism-ab: 41, 41, 46; --ig-primary-button-text-pressed-prism-c: 248, 249, 249; --ig-primary-button-text-prism-ab: 15, 20, 25; --ig-primary-button-text-prism-c: 255, 255, 255; --ig-primary-button-text-disabled-prism-ab: 50, 53, 57; --ig-primary-text-disabled-prism-c: 162, 170, 180; --ig-primary-link-disabled-prism-ab: 94, 100, 109; --ig-primary-link-disabled-prism-c: 0, 55, 107; --ig-secondary-link-prism-ab: 179, 219, 255; --ig-secondary-link-prism-c: 248, 249, 249; --ig-secondary-link-disabled-prism-ab: 0, 55, 107; --ig-secondary-link-disabled-prism-c: 94, 100, 109; --ig-secondary-button-text-pressed-prism-ab: 233, 237, 240; --ig-secondary-button-text-pressed-prism-c: 233, 237, 240; --ig-secondary-button-text-prism: 248, 249, 249; --ig-secondary-button-text-disabled-prism-ab: 94, 100, 109; --ig-primary-button-prism-ab: 248, 249, 249; --ig-primary-button-prism-c: 0, 149, 246; --ig-primary-button-pressed-prism-ab: 233, 237, 240; --ig-primary-button-pressed-prism-c: 0, 116, 204; --ig-primary-button-disabled-prism-ab: 94, 100, 109; --ig-primary-button-disabled-prism-c: 0, 55, 107; --ig-secondary-button-prism-ab: 15, 20, 25; --ig-secondary-button-prism-c: 41, 41, 46; --ig-toggle-background-on-prism: 248, 249, 249; --ig-toggle-background-off-prism: 50, 53, 57; --ig-toggle-background-disabled-on-prism: 111, 118, 128; --ig-toggle-background-disabled-off-prism: 41, 41, 46; --ig-toggle-outline-prism: 219, 223, 228; --ig-toggle-outline-disabled-prism: 94, 100, 109; --ig-stroke-prism: 15, 20, 25; --ig-stroke-disabled-on-prism: 50, 53, 57; --ig-stroke-disabled-off-prism: 33, 35, 38; --ig-dropdown-background: 41, 41, 46;">...</div>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x010D34A3+25059]
+	(No symbol) [0x0105CEA4]
+	(No symbol) [0x00F3BEC3]
+	(No symbol) [0x00F85D37]
+	(No symbol) [0x00F84189]
+	(No symbol) [0x00F81DAD]
+	(No symbol) [0x00F810AF]
+	(No symbol) [0x00F75FD7]
+	(No symbol) [0x00FA1EFC]
+	(No symbol) [0x00F75A24]
+	(No symbol) [0x00FA2194]
+	(No symbol) [0x00FBB51E]
+	(No symbol) [0x00FA1C96]
+	(No symbol) [0x00F73FAC]
+	(No symbol) [0x00F74F3D]
+	GetHandleVerifier [0x013C5613+3113811]
+	GetHandleVerifier [0x013DA2DA+3199002]
+	GetHandleVerifier [0x013D2AB2+3168242]
+	GetHandleVerifier [0x01173310+680016]
+	(No symbol) [0x010657ED]
+	(No symbol) [0x01062A98]
+	(No symbol) [0x01062C35]
+	(No symbol) [0x01055890]
+	BaseThreadInitThunk [0x76195D49+25]
+	RtlInitializeExceptionChain [0x776BCEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x776BCE41+561]
+
+2024-12-11 04:00:17,022 - INFO - WebDriver session closed.
+2024-12-11 04:02:39,583 - INFO - ====== WebDriver manager ======
+2024-12-11 04:02:40,199 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 04:02:40,506 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 04:02:40,828 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 04:02:45,141 - INFO - Entered username and password.
+2024-12-11 04:03:00,318 - INFO - Clicked on 'Turn On' button.
+2024-12-11 04:03:02,508 - INFO - Navigated to Direct Messages successfully.
+2024-12-11 04:03:02,517 - INFO - Chat list loaded successfully.
+2024-12-11 04:03:02,521 - INFO - Found 8 chats.
+2024-12-11 04:03:02,636 - INFO - Clicked on chat 1.
+2024-12-11 04:03:06,099 - INFO - Chat container for chat 1 located successfully.
+2024-12-11 04:03:09,245 - INFO - Extracted text from chat 1.
+2024-12-11 04:03:09,245 - INFO - Screenshot taken: chat_1_screenshot_1.png | Extracted Text: ...
+2024-12-11 04:03:09,264 - INFO - Returned to chat list after processing chat 1.
+2024-12-11 04:03:13,196 - INFO - Clicked on chat 2.
+2024-12-11 04:03:16,903 - INFO - Chat container for chat 2 located successfully.
+2024-12-11 04:03:20,192 - INFO - Extracted text from chat 2.
+2024-12-11 04:03:20,192 - INFO - Screenshot taken: chat_2_screenshot_2.png | Extracted Text: ...
+2024-12-11 04:03:20,225 - INFO - Returned to chat list after processing chat 2.
+2024-12-11 04:03:23,883 - INFO - Clicked on chat 3.
+2024-12-11 04:03:27,447 - INFO - Chat container for chat 3 located successfully.
+2024-12-11 04:03:29,304 - INFO - Extracted text from chat 3.
+2024-12-11 04:03:29,304 - INFO - Screenshot taken: chat_3_screenshot_3.png | Extracted Text: ...
+2024-12-11 04:03:29,336 - INFO - Returned to chat list after processing chat 3.
+2024-12-11 04:03:31,577 - INFO - Clicked on chat 4.
+2024-12-11 04:03:35,228 - INFO - Chat container for chat 4 located successfully.
+2024-12-11 04:03:36,882 - INFO - Extracted text from chat 4.
+2024-12-11 04:03:36,882 - INFO - Screenshot taken: chat_4_screenshot_4.png | Extracted Text: ...
+2024-12-11 04:03:36,899 - INFO - Returned to chat list after processing chat 4.
+2024-12-11 04:03:40,077 - INFO - Clicked on chat 5.
+2024-12-11 04:03:43,742 - INFO - Chat container for chat 5 located successfully.
+2024-12-11 04:03:46,032 - INFO - Extracted text from chat 5.
+2024-12-11 04:03:46,032 - INFO - Screenshot taken: chat_5_screenshot_5.png | Extracted Text: ...
+2024-12-11 04:03:46,075 - INFO - Returned to chat list after processing chat 5.
+2024-12-11 04:03:49,012 - INFO - Clicked on chat 6.
+2024-12-11 04:03:52,009 - INFO - Chat container for chat 6 located successfully.
+2024-12-11 04:03:54,303 - INFO - Extracted text from chat 6.
+2024-12-11 04:03:54,303 - INFO - Screenshot taken: chat_6_screenshot_6.png | Extracted Text: ...
+2024-12-11 04:03:54,317 - INFO - Returned to chat list after processing chat 6.
+2024-12-11 04:03:57,392 - INFO - Clicked on chat 7.
+2024-12-11 04:04:00,795 - INFO - Chat container for chat 7 located successfully.
+2024-12-11 04:04:02,306 - INFO - Extracted text from chat 7.
+2024-12-11 04:04:02,306 - INFO - Screenshot taken: chat_7_screenshot_7.png | Extracted Text: ...
+2024-12-11 04:04:02,317 - INFO - Returned to chat list after processing chat 7.
+2024-12-11 04:04:04,720 - INFO - Clicked on chat 8.
+2024-12-11 04:04:07,877 - INFO - Chat container for chat 8 located successfully.
+2024-12-11 04:04:10,841 - INFO - Extracted text from chat 8.
+2024-12-11 04:04:10,841 - INFO - Screenshot taken: chat_8_screenshot_8.png | Extracted Text: ...
+2024-12-11 04:04:10,868 - INFO - Returned to chat list after processing chat 8.
+2024-12-11 04:04:13,199 - INFO - Total screenshots taken: 8
+2024-12-11 04:04:13,378 - INFO - Added chat_1_screenshot_1.png and extracted text to PDF.
+2024-12-11 04:04:13,477 - INFO - Added chat_2_screenshot_2.png and extracted text to PDF.
+2024-12-11 04:04:13,574 - INFO - Added chat_3_screenshot_3.png and extracted text to PDF.
+2024-12-11 04:04:13,654 - INFO - Added chat_4_screenshot_4.png and extracted text to PDF.
+2024-12-11 04:04:13,740 - INFO - Added chat_5_screenshot_5.png and extracted text to PDF.
+2024-12-11 04:04:13,854 - INFO - Added chat_6_screenshot_6.png and extracted text to PDF.
+2024-12-11 04:04:14,007 - INFO - Added chat_7_screenshot_7.png and extracted text to PDF.
+2024-12-11 04:04:14,169 - INFO - Added chat_8_screenshot_8.png and extracted text to PDF.
+2024-12-11 04:04:14,224 - INFO - PDF generated successfully: instagram_chats.pdf
+2024-12-11 04:04:14,224 - INFO - Removed screenshot file: chat_1_screenshot_1.png
+2024-12-11 04:04:14,224 - INFO - Removed screenshot file: chat_2_screenshot_2.png
+2024-12-11 04:04:14,224 - INFO - Removed screenshot file: chat_3_screenshot_3.png
+2024-12-11 04:04:14,224 - INFO - Removed screenshot file: chat_4_screenshot_4.png
+2024-12-11 04:04:14,224 - INFO - Removed screenshot file: chat_5_screenshot_5.png
+2024-12-11 04:04:14,224 - INFO - Removed screenshot file: chat_6_screenshot_6.png
+2024-12-11 04:04:14,240 - INFO - Removed screenshot file: chat_7_screenshot_7.png
+2024-12-11 04:04:14,240 - INFO - Removed screenshot file: chat_8_screenshot_8.png
+2024-12-11 04:04:17,590 - INFO - WebDriver session closed.
+2024-12-11 04:09:07,885 - INFO - ====== WebDriver manager ======
+2024-12-11 04:09:08,513 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 04:09:08,855 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 04:09:09,126 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 04:09:12,970 - INFO - Entered username and password.
+2024-12-11 04:09:29,809 - INFO - Clicked on 'Turn On' button.
+2024-12-11 04:09:32,922 - INFO - Navigated to Direct Messages successfully.
+2024-12-11 04:09:32,937 - INFO - Chat list loaded successfully.
+2024-12-11 04:09:32,958 - INFO - Found 8 chats.
+2024-12-11 04:09:33,111 - INFO - Clicked on chat 1.
+2024-12-11 04:09:35,613 - INFO - Chat container for chat 1 located successfully.
+2024-12-11 04:09:37,938 - INFO - Extracted text from chat 1.
+2024-12-11 04:09:37,938 - INFO - Screenshot taken: chat_1_screenshot_1.png | Extracted Text: ...
+2024-12-11 04:09:37,956 - INFO - Returned to chat list after processing chat 1.
+2024-12-11 04:09:40,141 - INFO - Clicked on chat 2.
+2024-12-11 04:09:42,502 - INFO - Chat container for chat 2 located successfully.
+2024-12-11 04:09:44,379 - INFO - Extracted text from chat 2.
+2024-12-11 04:09:44,379 - INFO - Screenshot taken: chat_2_screenshot_2.png | Extracted Text: ...
+2024-12-11 04:09:44,410 - INFO - Returned to chat list after processing chat 2.
+2024-12-11 04:09:47,960 - INFO - Clicked on chat 3.
+2024-12-11 04:09:50,033 - INFO - Chat container for chat 3 located successfully.
+2024-12-11 04:09:52,336 - INFO - Extracted text from chat 3.
+2024-12-11 04:09:52,336 - INFO - Screenshot taken: chat_3_screenshot_3.png | Extracted Text: ...
+2024-12-11 04:09:52,351 - INFO - Returned to chat list after processing chat 3.
+2024-12-11 04:09:56,120 - INFO - Clicked on chat 4.
+2024-12-11 04:09:59,689 - INFO - Chat container for chat 4 located successfully.
+2024-12-11 04:10:01,072 - INFO - Extracted text from chat 4.
+2024-12-11 04:10:01,072 - INFO - Screenshot taken: chat_4_screenshot_4.png | Extracted Text: ...
+2024-12-11 04:10:01,088 - INFO - Returned to chat list after processing chat 4.
+2024-12-11 04:10:04,595 - INFO - Clicked on chat 5.
+2024-12-11 04:10:07,262 - INFO - Chat container for chat 5 located successfully.
+2024-12-11 04:10:09,936 - INFO - Extracted text from chat 5.
+2024-12-11 04:10:09,936 - INFO - Screenshot taken: chat_5_screenshot_5.png | Extracted Text: ...
+2024-12-11 04:10:09,979 - INFO - Returned to chat list after processing chat 5.
+2024-12-11 04:10:14,134 - INFO - Clicked on chat 6.
+2024-12-11 04:10:17,269 - INFO - Chat container for chat 6 located successfully.
+2024-12-11 04:10:18,982 - INFO - Extracted text from chat 6.
+2024-12-11 04:10:18,982 - INFO - Screenshot taken: chat_6_screenshot_6.png | Extracted Text: ...
+2024-12-11 04:10:19,003 - INFO - Returned to chat list after processing chat 6.
+2024-12-11 04:10:21,609 - INFO - Clicked on chat 7.
+2024-12-11 04:10:23,815 - INFO - Chat container for chat 7 located successfully.
+2024-12-11 04:10:26,763 - INFO - Extracted text from chat 7.
+2024-12-11 04:10:26,764 - INFO - Screenshot taken: chat_7_screenshot_7.png | Extracted Text: ...
+2024-12-11 04:10:26,778 - INFO - Returned to chat list after processing chat 7.
+2024-12-11 04:10:29,552 - INFO - Clicked on chat 8.
+2024-12-11 04:10:33,279 - INFO - Chat container for chat 8 located successfully.
+2024-12-11 04:10:34,732 - INFO - Extracted text from chat 8.
+2024-12-11 04:10:34,732 - INFO - Screenshot taken: chat_8_screenshot_8.png | Extracted Text: ...
+2024-12-11 04:10:34,747 - INFO - Returned to chat list after processing chat 8.
+2024-12-11 04:10:37,887 - INFO - Total screenshots taken: 8
+2024-12-11 04:10:38,044 - INFO - Added chat_1_screenshot_1.png and extracted text to PDF.
+2024-12-11 04:10:38,111 - INFO - Added chat_2_screenshot_2.png and extracted text to PDF.
+2024-12-11 04:10:38,175 - INFO - Added chat_3_screenshot_3.png and extracted text to PDF.
+2024-12-11 04:10:38,237 - INFO - Added chat_4_screenshot_4.png and extracted text to PDF.
+2024-12-11 04:10:38,316 - INFO - Added chat_5_screenshot_5.png and extracted text to PDF.
+2024-12-11 04:10:38,378 - INFO - Added chat_6_screenshot_6.png and extracted text to PDF.
+2024-12-11 04:10:38,450 - INFO - Added chat_7_screenshot_7.png and extracted text to PDF.
+2024-12-11 04:10:38,525 - INFO - Added chat_8_screenshot_8.png and extracted text to PDF.
+2024-12-11 04:10:38,566 - INFO - PDF generated successfully: instagram_chats.pdf
+2024-12-11 04:10:38,566 - INFO - Removed screenshot file: chat_1_screenshot_1.png
+2024-12-11 04:10:38,569 - INFO - Removed screenshot file: chat_2_screenshot_2.png
+2024-12-11 04:10:38,570 - INFO - Removed screenshot file: chat_3_screenshot_3.png
+2024-12-11 04:10:38,571 - INFO - Removed screenshot file: chat_4_screenshot_4.png
+2024-12-11 04:10:38,572 - INFO - Removed screenshot file: chat_5_screenshot_5.png
+2024-12-11 04:10:38,572 - INFO - Removed screenshot file: chat_6_screenshot_6.png
+2024-12-11 04:10:38,572 - INFO - Removed screenshot file: chat_7_screenshot_7.png
+2024-12-11 04:10:38,572 - INFO - Removed screenshot file: chat_8_screenshot_8.png
+2024-12-11 04:10:40,779 - INFO - WebDriver session closed.
+2024-12-11 04:20:33,647 - INFO - ====== WebDriver manager ======
+2024-12-11 04:20:34,300 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 04:20:34,589 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-11 04:20:34,851 - INFO - Driver [C:\Users\sarth\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-11 04:20:38,120 - INFO - Entered username and password.
+2024-12-11 04:20:53,931 - INFO - Clicked on 'Turn On' button.
+2024-12-11 04:20:57,273 - INFO - Navigated to Direct Messages successfully.
+2024-12-11 04:20:57,285 - INFO - Chat list loaded successfully.
+2024-12-11 04:20:57,301 - INFO - Found 8 chats.
+2024-12-11 04:20:57,427 - INFO - Clicked on chat 1.
+2024-12-11 04:21:03,664 - INFO - WebDriver session closed.
